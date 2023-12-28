@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703778951 source:c:\k19-c\k19f2\bt-checkprime4\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703168447 source:c:\k19-c\k19f2\09-inductiveresult\main.c
+	<stdio.h>
+	<stdlib.h>
+

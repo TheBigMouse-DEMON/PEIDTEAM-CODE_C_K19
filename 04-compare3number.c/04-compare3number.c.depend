@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703420012 source:c:\k19-c\k19f2\04-compare3number.c\main.c
+	<stdio.h>
+	<stdlib.h>
+

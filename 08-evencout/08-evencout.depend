@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702928637 source:c:\k19-c\k19f2\08-evencout\main.c
+	<stdio.h>
+	<stdlib.h>
+
